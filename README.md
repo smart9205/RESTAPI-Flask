@@ -1,7 +1,3 @@
-# Flask Rest API
-
-![image](https://user-images.githubusercontent.com/121934188/235756123-e7a528cd-8fd9-4819-b1d0-ae7de0e11af8.png)
-
 # Design a RESTful API with Python and Flask
 
 In recent years REST (REpresentational State Transfer) has emerged as the standard architectural design for web services and web APIs.
