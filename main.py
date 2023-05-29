@@ -33,6 +33,7 @@ resource_fields = {
 	'likes': fields.Integer
 }
 
+
 class Video(Resource):
 	@marshal_with(resource_fields)
 	def get(self, video_id):
